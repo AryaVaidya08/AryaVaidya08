@@ -1,7 +1,7 @@
 # Hi, I'm Arya 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Builder;Robotics+%26+Controls+Engineer;Full-Stack+Product+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Builder;Robotics+%26+Controls;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### Important Links: &nbsp;
+Important Links: &nbsp;
 <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a> |
 <a href="mailto:aryavaidya663@gmail.com">Email</a> |
 <a href="">Hypernetwork AAAI Research Paper</a>
