@@ -67,9 +67,3 @@ I enjoy hands-on projects, learning by building, and creating systems that combi
 | --- | --- |
 | GitHub | [AryaVaidya08](https://github.com/AryaVaidya08) |
 | Portfolio | [Portfolio](https://github.com/AryaVaidya08/Portfolio) |
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryaVaidya08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
