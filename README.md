@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Focus-FullStack-00C2A8?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
+--- 
+
 <div align="center">
 
 Important Links: &nbsp;
