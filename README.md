@@ -2,20 +2,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2000&pause=1000&color=F7F7F7&width=600&height=68&lines=Hi%2C+I'm+Arya+Vaidya%3BI'm+a+Software+Engineer%3BI'm+a+AI%2FML+Engineer%3BI'm+a+Robotics+Dev"/>
 
 <div align="center">
+  Important Links: &nbsp;
+  <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a> |
+  <a href="mailto:aryavaidya663@gmail.com">Email</a> |
+  <a href="">Hypernetwork AAAI Research Paper</a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML-8A2BE2?style=for-the-badge&logo=googledeepmind&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Robotics-FF6B6B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-FullStack-00C2A8?style=for-the-badge&logo=react&logoColor=white" />
-</div>
-
---- 
-
-<div align="center">
-
-Important Links: &nbsp;
-<a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a> |
-<a href="mailto:aryavaidya663@gmail.com">Email</a> |
-<a href="">Hypernetwork AAAI Research Paper</a>
-
 </div>
 
 I’m a software engineer and builder who enjoys working at the intersection of AI/ML, robotics, and product development. I’m especially interested in building tools that solve real problems, learn from data, and combine technical depth with practical impact.
