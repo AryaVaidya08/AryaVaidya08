@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-[Github](https://github.com/AryaVaidya08) | [Portfolio](https://github.com/AryaVaidya08/Portfolio) | [Email](mailto:aryavaidya663@gmail.com)
+  <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a>
+  <a href="aryavaidya663@gmail.com">Email</a>
 </div>
 
 I’m a software engineer and builder who enjoys working at the intersection of AI/ML, robotics, and product development. I’m especially interested in building tools that solve real problems, learn from data, and combine technical depth with practical impact.
