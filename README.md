@@ -1,7 +1,7 @@
 # Hi, I'm Arya 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=7C3AED&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Builder;Robotics+%26+Controls;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=FFF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Builder;Robotics+%26+Controls;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
