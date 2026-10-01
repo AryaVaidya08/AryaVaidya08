@@ -1,7 +1,7 @@
 <h1>
-  Hi, I'm Arya! I'm a
+  Hi, I'm Arya! I'm a &nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=F7F7F7&vCenter=true&width=400&height=40&lines=Software+Engineer;AI%2FML+Engineer;Robotics+Software+Developer"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2000&pause=1000&color=F7F7F7&vCenter=true&width=400&height=40&lines=Software+Engineer;AI%2FML+Engineer;Robotics+Software+Developer"
          alt="Typing SVG" height="36" align="absmiddle" />
   </a>
 </h1>
