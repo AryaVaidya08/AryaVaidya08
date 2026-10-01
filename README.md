@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Focus-FullStack-00C2A8?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
+<div align="center">
+[Github](https://github.com/AryaVaidya08) | [Portfolio](https://github.com/AryaVaidya08/Portfolio) | [Email](mailto:aryavaidya663@gmail.com)
+</div>
+
 I’m a software engineer and builder who enjoys working at the intersection of AI/ML, robotics, and product development. I’m especially interested in building tools that solve real problems, learn from data, and combine technical depth with practical impact.
 
 ## Skills
@@ -62,5 +66,3 @@ I build across multiple domains, not just one. My work spans machine learning, r
 I enjoy hands-on projects, learning by building, and creating systems that combine technical rigor with real-world usefulness.
 
 ## Connect
-
-[Github](https://github.com/AryaVaidya08) | [Portfolio](https://github.com/AryaVaidya08/Portfolio) | [Email](mailto:aryavaidya663@gmail.com)
