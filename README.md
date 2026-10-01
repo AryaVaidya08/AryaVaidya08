@@ -11,12 +11,14 @@
 </div>
 
 <div align="center">
-  <h3>Important Links: </h3>
-  <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a>
-  <p> | </p>
-  <a href="aryavaidya663@gmail.com">Email</a>
-  <p> | </p>
-  <a> Hypernetwork AAAI Research Paper </a>
+  <h3>Important Links:</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+    <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a>
+    |
+    <a href="mailto:aryavaidya663@gmail.com">Email</a>
+    |
+    <a href="">Hypernetwork AAAI Research Paper</a>
+  </div>
 </div>
 
 I’m a software engineer and builder who enjoys working at the intersection of AI/ML, robotics, and product development. I’m especially interested in building tools that solve real problems, learn from data, and combine technical depth with practical impact.
