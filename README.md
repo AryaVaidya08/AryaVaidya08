@@ -1,5 +1,8 @@
 # Hi, I'm Arya! I'm a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=30&size=26&duration=2000&pause=1000&color=F7F7F7&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Engineer;Robotics+Software+Developer)](https://git.io/typing-svg)
-
+<h1>
+  Hi, I'm Arya! I'm a 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=40&size=32&duration=2000&pause=1000&color=F7F7F7&vCenter=true&width=600&height=30&lines=Software+Engineer;AI%2FML+Engineer;Robotics+Software+Developer" alt="Typing SVG" /></a>
+</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML-8A2BE2?style=for-the-badge&logo=googledeepmind&logoColor=white" />
