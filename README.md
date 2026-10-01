@@ -63,7 +63,4 @@ I enjoy hands-on projects, learning by building, and creating systems that combi
 
 ## Connect
 
-| Platform | Link |
-| --- | --- |
-| GitHub | [AryaVaidya08](https://github.com/AryaVaidya08) |
-| Portfolio | [Portfolio](https://github.com/AryaVaidya08/Portfolio) |
+[Github](https://github.com/AryaVaidya08) | [Portfolio](https://github.com/AryaVaidya08/Portfolio) | [Email](mailto:aryavaidya663@gmail.com)
