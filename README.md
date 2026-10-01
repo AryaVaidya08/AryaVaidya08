@@ -13,7 +13,9 @@
 <div align="center">
   <h3>Important Links: </h3>
   <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a>
+  <p> | </p>
   <a href="aryavaidya663@gmail.com">Email</a>
+  <p> | </p>
   <a> Hypernetwork AAAI Research Paper </a>
 </div>
 
