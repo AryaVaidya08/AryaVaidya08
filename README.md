@@ -7,13 +7,13 @@
   <a href="mailto:aryavaidya663@gmail.com">Email</a> |
   <a href="">Hypernetwork AAAI Research Paper</a>
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML-8A2BE2?style=for-the-badge&logo=googledeepmind&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Robotics-FF6B6B?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-FullStack-00C2A8?style=for-the-badge&logo=react&logoColor=white" />
 </div>
-
+<br>
 I’m a software engineer and builder who enjoys working at the intersection of AI/ML, robotics, and product development. I’m especially interested in building tools that solve real problems, learn from data, and combine technical depth with practical impact.
 
 ## Skills
