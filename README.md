@@ -36,8 +36,8 @@ I’m a software engineer and builder who enjoys working at the intersection of 
 
 | Project | Focus | Description |
 | --- | --- | --- |
+| [Java-Robot-2026]([https://github.com/AryaVaidya08/Java-Robot-2022](https://github.com/Team303/2026v2)) | Java robotics | Java-based robot code for FRC competition development. |
 | [RCJ2024](https://github.com/AryaVaidya08/RCJ2024) | Autonomous robotics | Robotics competition project for maze-solving and autonomous robot control. |
-| [Java-Robot-2026](https://github.com/AryaVaidya08/Java-Robot-2022) | Java robotics | Java-based robot code for FRC competition development. |
 
 ### Software / Product / Web
 
