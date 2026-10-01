@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <h3>Important Links:</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+    <h3>Important Links: </h3>
     <a href="https://github.com/AryaVaidya08/Portfolio">Portfolio</a>
     |
     <a href="mailto:aryavaidya663@gmail.com">Email</a>
