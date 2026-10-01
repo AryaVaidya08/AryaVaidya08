@@ -58,11 +58,3 @@ I’m a software engineer and builder who enjoys working at the intersection of 
 | --- | --- | --- |
 | [students-for-sports](https://github.com/AryaVaidya08/students-for-sports) | Community | Community and web initiative focused on student engagement and outreach. |
 | [BRHS-DECA](https://github.com/AryaVaidya08/BRHS-DECA) | Leadership | Team/project work tied to leadership, collaboration, and organization. |
-
-## Why recruiters should pay attention
-
-I build across multiple domains, not just one. My work spans machine learning, robotics, product development, and interactive software—so I’m comfortable working from concept through implementation and iteration.
-
-I enjoy hands-on projects, learning by building, and creating systems that combine technical rigor with real-world usefulness.
-
-## Connect
