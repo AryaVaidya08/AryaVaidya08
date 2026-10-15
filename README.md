@@ -21,7 +21,7 @@ I’m a software engineer and builder who enjoys working at the intersection of 
 | Category | Tools & strengths |
 | --- | --- |
 | Languages | Python • JavaScript • TypeScript • Java • C++ • Swift • HTML • CSS |
-| AI / ML | Model experimentation • Data analysis • Prototyping • ML workflows • Research-minded problem solving |
+| AI / ML | Model experimentation • Data analysis • Prototyping • ML workflows |
 | Robotics / Controls | Autonomous systems • Embedded logic • Controls engineering • Experimental hardware projects |
 | Web / Product | React • Node.js • Full-stack apps • Web development • User-focused product thinking |
 | Workflow | Git • GitHub • Rapid prototyping • Iteration • Cross-disciplinary building |
